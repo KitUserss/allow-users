@@ -10,6 +10,7 @@ return {
     "Wolfgang_227", -- Soares
     "NeoX_neon", -- Farofa
     "olliver2045judoca", -- frost
+    "eduardo_billgate", -- gustavo 11/01 até 14/01
     "antiscam_XD", -- hacer 11/01 até 14/01
     "3000turbo", -- 300turbo 11/01 até 18/01
     "tizianoasdfghjkl", -- thiago 11/01 até 14/01
