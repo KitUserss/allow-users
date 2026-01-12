@@ -19,5 +19,6 @@ return {
     "LUIGI_CRIA9987", -- shawn 08/01  12/01
     "julinha014802", -- inf/inf inf/inf 
     "THANKS0117", -- nicolas 12/01 15/01
+    "BIELZIN_0I", -- 12/01  15/01
     "Chorax_nO" -- 11/01 14/01 
 }
