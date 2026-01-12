@@ -18,5 +18,5 @@ return {
     "jonn_mascarado", -- itadori 08/01  13/01
     "LUIGI_CRIA9987", -- shawn 08/01  12/01
     "julinha014802", -- inf/inf inf/inf 
-    "Chora_n0", -- 11/01 14/01 
+    "Chora_nO", -- 11/01 14/01 
 }
