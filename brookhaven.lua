@@ -8,6 +8,7 @@ return {
     "Gustavo25022", -- kid beng...
     "Wolfgang_227", -- Soares
     "NeoX_neon", -- Farofa
+    "DANGUEL11", -- calanguin divulgador
     "olliver2045judoca", -- frost
     "eduardo_billgate", -- gustavo 11/01 14/01
     "antiscam_XD", -- hacer 11/01 14/01
