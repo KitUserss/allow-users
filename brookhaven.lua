@@ -2,7 +2,6 @@ return {
     "Breno010L", -- Bazukita
     "RUANRODRIGO121121", -- Ryuzak
     "Gabriel263633j", -- Passarinho
-    "rafamemeaa", -- rafael PERM
     "Patodev_lenda", -- Karyston
     "PowerLegendSpark2018", -- Dev Spawn
     "Master_gustax", -- kid beng...
