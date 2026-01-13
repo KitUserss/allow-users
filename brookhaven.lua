@@ -11,6 +11,7 @@ return {
     "Danguel11", -- calanguin divulgador
     "olliver2045judoca", -- frost
     "eduardo_billgate", -- gustavo 11/01 14/01
+    "INC0MUUUU90", -- absolute 13/01 até 20/01
     "antiscam_XD", -- hacer 11/01 14/01
     "3000turbo", -- 300turbo 11/01 18/01
     "tizianoasdfghjkl", -- thiago 11/01 14/01
