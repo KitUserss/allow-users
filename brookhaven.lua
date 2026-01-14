@@ -17,5 +17,5 @@ return {
     "Neto934y22", -- 13/01 16/01
     "julinha014802", -- inf/inf inf/inf 
     "THANKS0117", -- nicolas 12/01 15/01
-    "BIELZIN_0I", -- 12/01  15/01
+    "BIELZIN_0I" -- 12/01  15/01
 }
