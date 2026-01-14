@@ -10,19 +10,12 @@ return {
     "NeoX_neon", -- Farofa
     "Danguel11", -- calanguin divulgador
     "olliver2045judoca", -- frost
-    "eduardo_billgate", -- gustavo 11/01 14/01
     "sansu2449", -- mv Divulgador
     "INC0MUUUU90", -- absolute 13/01  20/01
-    "antiscam_XD", -- hacer 11/01 14/01
     "3000turbo", -- 300turbo 11/01 18/01
-    "tizianoasdfghjkl", -- thiago 11/01 14/01
     "DicasdeIngles", -- lua 11/01 12/02
-    "murilo_12303", -- kayrus 08/01 12/01
     "Neto934y22", -- 13/01 16/01
-    "jonn_mascarado", -- itadori 08/01  13/01
-    "LUIGI_CRIA9987", -- shawn 08/01  12/01
     "julinha014802", -- inf/inf inf/inf 
     "THANKS0117", -- nicolas 12/01 15/01
     "BIELZIN_0I", -- 12/01  15/01
-    "Chorax_nO" -- 11/01 14/01 
 }
