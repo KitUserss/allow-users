@@ -12,6 +12,7 @@ return {
     "Danguel11", -- calanguin divulgador
     "olliver2045judoca", -- frost
     "sansu2449", -- mv Divulgador
+    "joaow8wjww", -- joao 16/01 23/01
     "INC0MUUUU90", -- absolute 13/01  20/01
     "3000turbo", -- 300turbo 11/01 18/01
     "DicasdeIngles", -- lua 11/01 12/02
