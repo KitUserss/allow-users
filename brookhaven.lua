@@ -17,6 +17,6 @@ return {
     "DicasdeIngles", -- lua 11/01 12/02
     "Neto934y22", -- 13/01 16/01
     "joaow8wjww", -- inf/inf inf/inf 
-    "THANKS0117", -- nicolas 12/01 15/01
+    "THANKS0117", -- nicolas 12/01 15/03
     "BIELZIN_0I" -- 12/01  15/01
 }
