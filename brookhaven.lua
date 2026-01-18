@@ -11,5 +11,5 @@ return {
     "sansu2449", -- mv Divulgador
     "INC0MUUUU90", -- absolute 13/01  20/01
     "DicasdeIngles", -- lua 11/01 12/02
-    "joaow8wjww", -- 15/01 15/03
+    "joaow8wjww" -- 15/01 15/03
 }
