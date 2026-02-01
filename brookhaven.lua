@@ -18,5 +18,6 @@ return {
     "INC0MUUUU90", -- absolute 24/01  26/01
     "nolyhaha", -- lol 24/01  26/01
     "joaow8wjww", -- joao 15/01 15/03 
-    "Guiheheke" -- 24/01 27/01
+    "Guiheheke", -- 24/01 27/01
+    "vivi4ne16" -- 01/02 /01/03
 }
