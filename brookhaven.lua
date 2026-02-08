@@ -9,8 +9,6 @@ return {
     "Danguel11", -- calanguin divulgador
     "olliver2045judoca", -- frost
     "sansu2449", -- mv Divulgador
-    "DicasdeIngles", -- lua 11/01 12/02
     "joaow8wjww", -- joao 15/01 15/03 
-    "vivi4ne16", -- 01/02 /01/03
-    "Tennyson_10ben6" -- teste
+    "vivi4ne16" -- 01/02 /01/03
 }
