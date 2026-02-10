@@ -10,5 +10,5 @@ return {
     "olliver2045judoca", -- frost
     "sansu2449", -- mv Divulgador
     "joaow8wjww", -- joao 15/01 15/03 
-    "vivi4ne16" -- 01/02 /01/03
+    "ColorTristanm5071" -- 01/02 /01/03
 }
