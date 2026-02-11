@@ -9,6 +9,7 @@ return {
     "Danguel11", -- calanguin divulgador
     "olliver2045judoca", -- frost
     "sansu2449", -- mv Divulgador
+    "Tennyson_10ben10", -- Luckzv 11/02 14/02
     "joaow8wjww", -- joao 15/01 15/03 
     "ColorTristanm5071" -- 10/02 /10/03
 }
