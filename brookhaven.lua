@@ -9,8 +9,8 @@ return {
     "NeoX_neon", -- Farofa
     "olliver2045judoca", -- frost
     "sansu2449", -- mv Divulgador
-    "Luckzvxs", -- Luckzv 15/02 22/02
-    "itz_davix86", -- indio 15/02 22/02
-    "joaow8wjww", -- joao 15/01 15/03 
-    "ColorTristanm5071" -- 10/02 10/03
+    "Luckzvxs", -- Luckzv 15/02 25/02
+    "itz_davix86", -- indio 15/02 25/02
+    "joaow8wjww", -- joao 15/01 18/03 
+    "ColorTristanm5071" -- 10/02 13/03
 }
