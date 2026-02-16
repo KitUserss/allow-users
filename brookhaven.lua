@@ -8,7 +8,7 @@ return {
     "Wolfgang_227", -- Soares
     "Meka_js", -- Farofa
     "olliver2045judoca", -- frost
-    "rip_dragon1236016", -- sla divulgador
+    "rip_dragon1236016", -- alan divulgador
     "sansu2449", -- mv Divulgador
     "sansu78906", -- mv Divulgador
     "Luckzvxs", -- Luckzv 15/02 25/02
