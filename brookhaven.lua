@@ -12,7 +12,8 @@ return {
     "sansu78906", -- mv Divulgador
     "Luckzvxs", -- Luckzv 15/02 25/02
     "itz_davix86", -- indio 15/02 25/02
-    "joaow8wjww", -- joao 15/01 18/03 
+    "joaow8wjww", -- joao 15/01 18/03
+    "pumaji32", -- 16/02 19/02
     "ColorTristanm5071", -- 10/02 13/03
     "isagisei1" -- filho do ryu
 }
