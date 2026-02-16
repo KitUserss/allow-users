@@ -6,7 +6,7 @@ return {
     "JustWX99s", -- Dabruxis
     "PowerLegendSpark2018", -- Dev Spawn
     "Wolfgang_227", -- Soares
-    "NeoX_neon", -- Farofa
+    "Meka_js", -- Farofa
     "olliver2045judoca", -- frost
     "sansu2449", -- mv Divulgador
     "sansu78906", -- mv Divulgador
