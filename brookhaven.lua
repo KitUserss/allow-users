@@ -21,6 +21,7 @@ return {
     "Mizaelfm2", -- 16/02 19/02
     "soubrabo0101", -- 16/02 19/02
     "luan122010", -- 16/02 19/02
+    "taylinho4509", -- 17/02 20/02
     "ColorTristanm5071", -- 10/02 13/03
     "isagisei1", -- filho do ryu
     "bhpaxltda", -- bella
