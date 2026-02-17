@@ -24,5 +24,6 @@ return {
     "luan122010", -- 16/02 19/02
     "ColorTristanm5071", -- 10/02 13/03
     "isagisei1", -- filho do ryu
-    "joaoking667" -- 17/02 20/02
+    "joaoking667", -- 17/02 20/02
+    "manuela4h4" -- manu
 }
