@@ -22,5 +22,6 @@ return {
     "luan122010", -- 16/02 19/02
     "ColorTristanm5071", -- 10/02 13/03
     "isagisei1", -- filho do ryu
+    "bhpaxltda", -- bella
     "crlh_nathyy" -- nathy 
 }
