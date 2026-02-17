@@ -12,7 +12,7 @@ return {
     "rip_dragon1236016", -- alan divulgador
     "sansu2449", -- mv Divulgador
     "sansu78906", -- mv Divulgador
-    "Luckzvxs", -- Luckzv 15/02 25/02
+    "Luckzvxs", -- Luckzv 15/02 28/02
     "itz_davix86", -- indio 15/02 25/02
     "joaow8wjww", -- joao 15/01 18/03
     "pumaji32", -- 16/02 19/02
