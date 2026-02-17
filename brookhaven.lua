@@ -24,7 +24,5 @@ return {
     "taylinho4509", -- 17/02 20/02
     "ColorTristanm5071", -- 10/02 13/03
     "isagisei1", -- filho do ryu
-    "bhpaxltda", -- bella
-    "crlh_nathyy", -- nathy 
-    "manuela4h4" -- manu
+    "joaoking667" -- 17/02 20/02
 }
