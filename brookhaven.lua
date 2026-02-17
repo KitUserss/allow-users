@@ -15,6 +15,7 @@ return {
     "itz_davix86", -- indio 15/02 25/02
     "joaow8wjww", -- joao 15/01 18/03
     "pumaji32", -- 16/02 19/02
+    "Pedrolucca_093", -- 16/02 19/02
     "asafegaga", -- 16/02 19/02
     "Mizaelfm2", -- 16/02 19/02
     "soubrabo0101", -- 16/02 19/02
