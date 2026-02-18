@@ -27,5 +27,6 @@ return {
     "joaoking667",
     "thaysonzz011",
     "manuela4h4",
-    "derik_orico"
+    "derik_orico",
+    "Meka_js"
 }
