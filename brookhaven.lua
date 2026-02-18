@@ -26,5 +26,6 @@ return {
     "isagisei1",
     "thaysonzz011",
     "joaoking667",
-    "manuela4h4"
+    "manuela4h4",
+    "derik_orico"
 }
