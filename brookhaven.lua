@@ -24,6 +24,7 @@ return {
     "luan122010",
     "ColorTristanm5071",
     "isagisei1",
+    "thaysonzz011",
     "joaoking667",
     "manuela4h4"
 }
