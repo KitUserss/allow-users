@@ -6,7 +6,6 @@ return {
     "JustWX99s",
     "PowerLegendSpark2018",
     "Wolfgang_227",
-    "Meka_js",
     "olliver2045judoca",
     "taylinho4509",
     "ImQiakEzoHy",
