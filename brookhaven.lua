@@ -28,5 +28,6 @@ return {
     "thaysonzz011",
     "manuela4h4",
     "derik_orico",
-    "Meka_js"
+    "Meka_js",
+    "itz_davix86"
 }
