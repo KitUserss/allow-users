@@ -30,5 +30,7 @@ return {
     "derik_orico",
     "Meka_js",
     "itz_davix86",
-    "meka_html"
+    "meka_html",
+    "crlh_nathyy",
+    "bhpaxltda"
 }
