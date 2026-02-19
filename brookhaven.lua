@@ -31,5 +31,6 @@ return {
     "Meka_js",
     "itz_davix86",
     "meka_html",
-    "crlh_nathyy"
+    "crlh_nathyy",
+    "bhpaxltda"
 }
