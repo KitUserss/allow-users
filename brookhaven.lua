@@ -32,5 +32,6 @@ return {
     "itz_davix86",
     "meka_html",
     "crlh_nathyy",
-    "bhpaxltda"
+    "bhpaxltda",
+    "GabsszinZX"
 }
