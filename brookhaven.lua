@@ -33,5 +33,6 @@ return {
     "meka_html",
     "crlh_nathyy",
     "bhpaxltda",
+    "Fernandes12395",
     "GabsszinZX"
 }
