@@ -19,6 +19,7 @@ return {
     "joaow8wjww", -- joao 15/01 18/03
     "GabsszinZX", -- gbszx 21/02 28/02
     "ColorTristanm5071", -- 10/02 13/03
+    "Davhi755", -- TikTok 23/02 26/02
     "antiscam_XD", -- Joao Vitor 22/02 29/02
     "isagisei1" -- filho do ryu
 
