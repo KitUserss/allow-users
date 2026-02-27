@@ -23,4 +23,5 @@ return {
     "Vexmyrk412", -- 25/02 28/02
     "isagisei1", -- filho do ryu
     "crlh_nathyy" -- nathy
+    "Hey_zPUDIM" -- 3 dias
 }
