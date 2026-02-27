@@ -22,6 +22,6 @@ return {
     "antiscam_XD", -- Joao Vitor 22/02 29/02
     "Vexmyrk412", -- 25/02 28/02
     "isagisei1", -- filho do ryu
-    "crlh_nathyy" -- nathy
+    "crlh_nathyy", -- nathy
     "Hey_zPUDIM" -- 26/02 29/02
 }
