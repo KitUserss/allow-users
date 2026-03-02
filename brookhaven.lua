@@ -21,5 +21,6 @@ return {
     "daorabo8", -- Ovosoldado 02/03  08/03
     "baconjabiraca", -- wzz 02/03  08/03
     "SUCOdeDIGIMON", -- 02/03 08/03
-    "Alvin99H" -- divulgador
+    "Alvin99H", -- divulgador
+    "dszin0_0" -- divulgador
 }
