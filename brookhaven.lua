@@ -17,5 +17,7 @@ return {
     "joaoking667", -- joao 01/03  18/03
     "isagisei1", -- filho do ryu
     "K1LL_py", -- kill 26/02  04/03
+    "YAGOZXNF", -- king 02/03  08/03
+    "baconjabiraca", -- wzz 02/03  08/03
     "SUCOdeDIGIMON" -- 02/03 08/03
 }
