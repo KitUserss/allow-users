@@ -20,5 +20,6 @@ return {
     "YAGOZXNF", -- king 02/03  08/03
     "daorabo8", -- Ovosoldado 02/03  08/03
     "baconjabiraca", -- wzz 02/03  08/03
-    "SUCOdeDIGIMON" -- 02/03 08/03
+    "SUCOdeDIGIMON", -- 02/03 08/03
+    "Alvin99H" -- divulgador
 }
