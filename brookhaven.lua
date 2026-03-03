@@ -7,6 +7,7 @@ return {
     "PowerLegendSpark2018", -- Dev Spawn
     "Meka_js", -- Farofa
     "olliver2045judoca", -- frost
+    "gtavaitoma01", -- kakashi divulgador
     "Markespvp_S", -- thex divulgador
     "n7criak", -- snow divulgador
     "ziovxoo", -- slow divulgador
