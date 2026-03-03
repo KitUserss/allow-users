@@ -8,6 +8,7 @@ return {
     "Meka_js", -- Farofa
     "olliver2045judoca", -- frost
     "gtavaitoma01", -- kakashi divulgador
+    "joaopietrodavizinho", -- Yxzzk Divulgador
     "Alvin99H", -- Alvin divulgador
     "dszin0_0", -- divulgador
     "Markespvp_S", -- thex divulgador
