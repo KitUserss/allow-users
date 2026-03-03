@@ -8,6 +8,8 @@ return {
     "Meka_js", -- Farofa
     "olliver2045judoca", -- frost
     "gtavaitoma01", -- kakashi divulgador
+    "Alvin99H", -- Alvin divulgador
+    "dszin0_0", -- divulgador
     "Markespvp_S", -- thex divulgador
     "n7criak", -- snow divulgador
     "ziovxoo", -- slow divulgador
@@ -22,7 +24,5 @@ return {
     "YAGOZXNF", -- king 02/03  08/03
     "daorabo8", -- Ovosoldado 02/03  08/03
     "baconjabiraca", -- wzz 02/03  08/03
-    "SUCOdeDIGIMON", -- 02/03 08/03
-    "Alvin99H", -- divulgador
-    "dszin0_0" -- divulgador
+    "SUCOdeDIGIMON" -- 02/03 08/03
 }
