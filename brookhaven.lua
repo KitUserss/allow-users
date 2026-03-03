@@ -18,7 +18,6 @@ return {
     "andrielebibi", -- driih 03/03  03/07
     "joaow8wjww", -- joao 15/01 18/03
     "ColorTristanm5071", -- 10/02 13/03
-    "antiscam_XD", -- Joao Vitor 22/02 01/03
     "joaoking667", -- joao 01/03  18/03
     "isagisei1", -- filho do ryu
     "K1LL_py", -- kill 26/02  04/03
