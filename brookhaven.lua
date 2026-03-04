@@ -26,5 +26,5 @@ return {
     "daorabo8", -- Ovosoldado 02/03  08/03
     "baconjabiraca", -- wzz 
     "SUCOdeDIGIMON" -- 02/03 08/03
-    "usiajahge" -- xxdxrkxx229 
+    "usiajahge", -- xxdxrkxx229 
 }
