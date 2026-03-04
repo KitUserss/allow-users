@@ -21,7 +21,7 @@ return {
     "ColorTristanm5071", -- 10/02 13/03
     "joaoking667", -- joao 01/03  18/03
     "isagisei1", -- filho do ryu
-    "K1LL_py", -- kill 04/03  04/06
+    "K1LL_py", -- kill 04/03  04/07
     "YAGOZXNF", -- king 02/03  08/03
     "daorabo8", -- Ovosoldado 02/03  08/03
     "baconjabiraca", -- wzz 
