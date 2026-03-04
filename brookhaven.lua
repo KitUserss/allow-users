@@ -25,5 +25,6 @@ return {
     "YAGOZXNF", -- king 02/03  08/03
     "daorabo8", -- Ovosoldado 02/03  08/03
     "baconjabiraca", -- wzz 
-    "SUCOdeDIGIMON" -- 02/03 08/03
+    "SUCOdeDIGIMON", -- 02/03 08/03
+    "K1LL_py" -- k1ll_linux 04/03 04/06
 }
