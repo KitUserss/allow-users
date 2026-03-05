@@ -1,6 +1,6 @@
 return {
     "Breno010L", -- Bazukita
-    "lushmart", -- bazuka
+    "StaffordMakayla783", -- bazuka
     "RUANRODRIGO121121", -- Ryuzak
     "Gabriel263633j", -- Passarinho
     "JustWX99s", -- Dabruxis
