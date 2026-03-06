@@ -10,7 +10,6 @@ return {
     "gtavaitoma01", -- kakashi divulgador
     "Luckzvxs", -- Luckzvxs divulgador
     "Olivio922", -- k1ng divulgador
-    "joaopietrodavizinho", -- Yxzzk Divulgador
     "Alvin99H", -- Alvin divulgador
     "dszin0_0", -- divulgador
     "Markespvp_S", -- thex divulgador
