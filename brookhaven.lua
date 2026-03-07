@@ -30,5 +30,6 @@ return {
     "daorabo8", -- Ovosoldado 02/03  08/03
     "tremdamidia55", -- 07/03  10/03
     "baconjabiraca", -- wzz 
-    "SUCOdeDIGIMON" -- 02/03 08/03
+    "SUCOdeDIGIMON", -- 02/03 08/03
+    "163637227" -- Theus999
 }
