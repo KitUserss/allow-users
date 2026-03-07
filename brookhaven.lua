@@ -33,6 +33,7 @@ return {
     "tremdamidia55", -- 07/03  10/03
     "baconjabiraca", -- wzz 
     "SUCOdeDIGIMON", -- 02/03 08/03
+    "isaac_344725", -- 07/03  08/03
     "163637227", -- Theus999
     "Gabsszinzx" -- Gabs
 }
