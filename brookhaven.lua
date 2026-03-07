@@ -27,6 +27,7 @@ return {
     "K1LL_py", -- kill 04/03  04/07
     "YAGOZXNF", -- king 02/03  08/03
     "daorabo8", -- Ovosoldado 02/03  08/03
+    "tremdamidia55", -- 07/03  10/03
     "baconjabiraca", -- wzz 
     "SUCOdeDIGIMON" -- 02/03 08/03
 }
