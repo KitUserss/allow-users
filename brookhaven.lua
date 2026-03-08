@@ -34,7 +34,6 @@ return {
     "baconjabiraca", -- wzz 
     "SUCOdeDIGIMON", -- 02/03 08/03
     "isaac_344725", -- 07/03  08/03
-    "163637227", -- Theus999 
-    "Gabsszinzx", -- Gabs
+    "Gabsszinzx", -- Gabs 07/03  14/03
     "AGHOSTTHEDOOWCOOL" -- 05/03 12/03
 }
