@@ -15,6 +15,7 @@ return {
     "Markespvp_S", -- thex divulgador
     "n7criak", -- snow divulgador
     "ziovxoo", -- slow divulgador
+    "aliliolas", -- mostii divulgador
     "sansu2449", -- mv Divulgador
     "sansu78906", -- mv Divulgador
     "andrielebibi", -- driih 03/03  03/07
