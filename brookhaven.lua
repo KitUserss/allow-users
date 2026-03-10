@@ -23,6 +23,7 @@ return {
     "daorabo8", -- Ovosoldado 02/03  08/03
     "TUBER9307514", -- 09/03  16/03
     "Luan122010", -- 09/03  16/03
+    "Ternkqx_150", -- 09/03 16/03
     "eduardo_billgate", -- 09/03  16/03
     "tremdamidia55", -- 07/03  10/03
     "SUCOdeDIGIMON", -- 02/03 08/03
