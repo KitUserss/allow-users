@@ -23,7 +23,7 @@ return {
     "silvaa_lenda", -- 07/03 03/04
     "daorabo8", -- Ovosoldado 02/03  08/03
     "TUBER9307514", -- 09/03  23/03
-    "Luan122010", -- 09/03  16/03
+    "Luan122010", -- 09/03  23/03
     "Ternkqx_150", -- 09/03 16/03
     "eduardo_billgate", -- 09/03  16/03
     "tremdamidia55", -- 07/03  10/03
