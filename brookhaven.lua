@@ -27,8 +27,9 @@ return {
     "Ternkqx_150", -- 09/03 16/03
     "eduardo_billgate", -- 09/03  16/03
     "tremdamidia55", -- 07/03  10/03
-    "SUCOdeDIGIMON", -- 02/03 08/03
+    "SUCOdeDIGIMON", -- 02/03 15/03
     "isaac_344725", -- 07/03  15/03
+    "NSC_TALISSON14218", -- 12/02  19/02
     "Gabsszinzx", -- Gabs 07/03  14/03
     "AGHOSTTHEDOOWCOOL" -- 05/03 12/03
 }
