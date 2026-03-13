@@ -32,6 +32,7 @@ return {
     "NSC_TALISSON14218", -- 12/02  19/02
     "ellernate_ofc04", -- 12/02  19/02
     "Fernandes12395", -- 12/02 19/02
+    "itz_davix86", -- 12/03  19/02
     "Gabsszinzx", -- Gabs 07/03  21/03
     "AGHOSTTHEDOOWCOOL" -- 05/03 12/03
 }
