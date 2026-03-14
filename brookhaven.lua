@@ -26,13 +26,15 @@ return {
     "Luan122010", -- 09/03  23/03
     "Ternkqx_150", -- 09/03 16/03
     "eduardo_billgate", -- 09/03  16/03
-    "tremdamidia55", -- 07/03  10/02
+    "tremdamidia55", -- 07/03  10/03
     "SUCOdeDIGIMON", -- 02/03 22/03
     "isaac_344725", -- 07/03  15/03
-    "NSC_TALISSON14218", -- 12/02  19/02
-    "ellernate_ofc04", -- 12/02  19/02
-    "Fernandes12395", -- 12/02 19/02
-    "itz_davix86", -- 12/03  19/02
+    "NSC_TALISSON14218", -- 12/02  19/03
+    "ellernate_ofc04", -- 12/02  19/03
+    "Fernandes12395", -- 12/02 19/03
+    "o9j77", -- 14/03 19/03
+    "mizaelfm2", -- 14/03  19/03
+    "itz_davix86", -- 12/03  19/03
     "Gabsszinzx", -- Gabs 07/03  21/03
     "AGHOSTTHEDOOWCOOL" -- 05/03 12/03
 }
