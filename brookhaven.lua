@@ -5,7 +5,6 @@ return {
     "JustWX99s", -- Dabruxis
     "PowerLegendSpark2018", -- Dev Spawn
     "olliver2045judoca", -- frost
-    "gtavaitoma01", -- kakashi divulgador
     "ziovxoo", -- Xuung Divulgador
     "sansu2449", -- mv Divulgador
     "sansu78906", -- mv Divulgador
@@ -37,5 +36,4 @@ return {
     "itz_davix86", -- 12/03  19/03
     "Gabsszinzx", -- Gabs 07/03  21/03
     "AGHOSTTHEDOOWCOOL" -- 05/03 12/03
-    "ai", -- 18/03 21/03
 }
