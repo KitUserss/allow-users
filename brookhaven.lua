@@ -4,7 +4,7 @@ return {
     "Gabriel263633j", -- Passarinho
     "JustWX99s", -- Dabruxis
     "PowerLegendSpark2018", -- Dev Spawn
-    "olliver2045judoca", -- frost 18/03 01/01
+    "olliver2045judoca", -- frost
     "ziovxoo", -- Xuung Divulgador
     "sansu2449", -- mv Divulgador
     "sansu78906", -- mv Divulgador
