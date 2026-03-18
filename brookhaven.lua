@@ -1,6 +1,7 @@
 return {
     "Breno010L", -- Bazukita
     "StaffordMakayla783", -- bazuka
+    "RUANRODRIGO121121", -- Ryuzak
     "Gabriel263633j", -- Passarinho
     "JustWX99s", -- Dabruxis
     "PowerLegendSpark2018", -- Dev Spawn
@@ -36,5 +37,4 @@ return {
     "itz_davix86", -- 12/03  19/03
     "Gabsszinzx", -- Gabs 07/03  21/03
     "AGHOSTTHEDOOWCOOL" -- 05/03 12/03
-    "RUANRODRIGO121121", -- 18/03 17/05
 }
