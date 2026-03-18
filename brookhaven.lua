@@ -37,4 +37,5 @@ return {
     "itz_davix86", -- 12/03  19/03
     "Gabsszinzx", -- Gabs 07/03  21/03
     "AGHOSTTHEDOOWCOOL" -- 05/03 12/03
+    "sla3", -- 18/03 21/03
 }
