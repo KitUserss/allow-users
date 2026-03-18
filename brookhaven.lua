@@ -38,5 +38,4 @@ return {
     "Gabsszinzx", --Gabs 07/03  21/03
     "AGHOSTTHEDOOWCOOL", --05/03 12/03,
     "aineymar", --18/03 19/03
-    "bazukita" --18/03 21/03
 }
