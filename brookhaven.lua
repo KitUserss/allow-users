@@ -19,7 +19,6 @@ return {
     "vteteus", -- Pietro 15/03  22/03
     "Antiscam_xd", -- Joao vitor 06/03 11/03
     "K1LL_py", -- kill 04/03  04/07
-    "YAGOZXNF", -- king 02/03  08/03
     "silvaa_lenda", -- 07/03 03/04
     "TUBER9307514", -- 09/03  23/03
     "Luan122010", -- 09/03  23/03
