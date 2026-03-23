@@ -24,6 +24,5 @@ return {
     "daorabo8", -- Ovosoldado 02/03  08/03
     "TUBER9307514", -- 09/03  23/03
     "Luan122010", -- 09/03  23/03
-    "Ternkqx_150", -- 09/03 16/03
     "teteuziinhoh" -- 20/03 23/03
 }
