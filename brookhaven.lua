@@ -10,7 +10,6 @@ return {
     "sansu2449", -- mv Divulgador
     "sansu78906", -- mv Divulgador
     "andrielebibi", -- driih 03/03  03/07
-    "joaow8wjww", -- joao 15/01 18/03
     "DanieR7Play", -- DnZinN 05/03  12/04
     "163637227", -- theus 13/03 25/03
     "K1LL_py", -- kill 04/03  04/07
