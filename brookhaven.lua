@@ -16,7 +16,6 @@ return {
     "Patodev_lenda", -- Multilaser 07/03  14/03
     "ColorTristanm5071", -- 10/02 13/03
     "joaoking667", -- joao 01/03  18/03
-    "vteteus", -- Pietro 15/03  22/03
     "K1LL_py", -- kill 04/03  04/07
     "silvaa_lenda", -- 07/03 03/04
     "TUBER9307514", -- 09/03  23/03
