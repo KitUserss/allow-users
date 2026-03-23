@@ -13,7 +13,6 @@ return {
     "joaow8wjww", -- joao 15/01 18/03
     "DanieR7Play", -- DnZinN 05/03  12/04
     "163637227", -- theus 13/03 25/03
-    "Patodev_lenda", -- Multilaser 07/03  14/03
     "K1LL_py", -- kill 04/03  04/07
     "silvaa_lenda", -- 07/03 03/04
     "TUBER9307514", -- 09/03  23/03
