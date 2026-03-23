@@ -35,6 +35,5 @@ return {
     "o9j77", -- 14/03 19/03
     "mizaelfm2", -- 14/03  19/03
     "itz_davix86", -- 12/03  19/03
-    "Gabsszinzx", -- Gabs 07/03  21/03
     "teteuziinhoh" -- 20/03 23/03
 }
