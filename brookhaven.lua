@@ -28,6 +28,5 @@ return {
     "eduardo_billgate", -- 09/03  16/03
     "tremdamidia55", -- 07/03  10/03
     "SUCOdeDIGIMON", -- 02/03 22/03
-    "isaac_344725", -- 07/03  15/03
     "teteuziinhoh" -- 20/03 23/03
 }
