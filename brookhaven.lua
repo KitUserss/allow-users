@@ -29,6 +29,5 @@ return {
     "tremdamidia55", -- 07/03  10/03
     "SUCOdeDIGIMON", -- 02/03 22/03
     "isaac_344725", -- 07/03  15/03
-    "NSC_TALISSON14218", -- 12/02  19/03
     "teteuziinhoh" -- 20/03 23/03
 }
