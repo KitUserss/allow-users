@@ -25,6 +25,5 @@ return {
     "TUBER9307514", -- 09/03  23/03
     "Luan122010", -- 09/03  23/03
     "Ternkqx_150", -- 09/03 16/03
-    "eduardo_billgate", -- 09/03  16/03
     "teteuziinhoh" -- 20/03 23/03
 }
