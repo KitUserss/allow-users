@@ -16,5 +16,6 @@ return {
     "silvaa_lenda", -- 07/03 03/04
     "o9j77", -- 23/03 25/03
     "Hetien", -- 23/03 22/04
-    "magosupremo132" -- 23/03 26/03
+    "magosupremo132", -- 23/03 26/03
+    "aaaa" -- arabiano 23/03/26 24/03/26
 }
