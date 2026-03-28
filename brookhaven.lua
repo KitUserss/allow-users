@@ -13,5 +13,6 @@ return {
     "DanieR7Play", -- DnZinN 05/03 12/04
     "K1LL_py", -- kill 04/03 04/07
     "silvaa_lenda", -- 07/03 03/04
-    "Hetien" -- 23/03 22/04
+    "Hetien", -- 23/03 22/04
+    "Mateusx9992" -- João Vitor 28/03/26 02/04/26
 }
