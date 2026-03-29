@@ -16,5 +16,6 @@ return {
     "Hetien", -- 23/03 22/04
     "Mateusx9992", -- João Vitor 28/03/26 02/04/26
     "l_rrz01", -- 𝐀𝐥𝐩𝐡𝐚' 28/03/26 02/04/26
-    "eduardo_billgate" -- Soc.Ozin 28/03/26 31/03/26
+    "eduardo_billgate", -- Soc.Ozin 28/03/26 31/03/26
+    "Jv200278" -- D҉n҉W҉i҉p҉_M҉A҉D҉A҉R҉A҉ 28/03/26 12/08/53
 }
