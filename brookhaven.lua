@@ -5,7 +5,7 @@ return {
     "Gabriel263633j", -- Passarinho
     "JustWX99s", -- Dabruxis
     "PowerLegendSpark2018", -- Dev Spawn
-    "olliver2045judoca", -- frost
+    "olliver2045judoca", -- frost Mod Ult
     "ziovxoo", -- Xuung Divulgador
     "sansu2449", -- mv Divulgador
     "sansu78906", -- mv Divulgador
@@ -15,8 +15,8 @@ return {
     "silvaa_lenda", -- 07/03 03/04
     "Hetien", -- 23/03 22/04
     "Mateusx9992", -- João Vitor 28/03/26 02/04/26
-    "l_rrz01", -- αℓρнχ' 30/03/26 07/12/39
+    "l_rrz01", -- 𝐀𝐥𝐩𝐡𝐚' Staff 30/03/26 07/12/39
     "eduardo_billgate", -- Soc.Ozin 28/03/26 31/03/26
-    "Jv200278", -- D҉n҉W҉i҉p҉_M҉A҉D҉A҉R҉A҉ 28/03/26 12/08/53
-    "Milena_Martins77" -- ꧁ .𝕮𝖗𝖚𝖊𝖑𝖑𝖆 .꧂ 29/03/26 13/08/53
+    "Jv200278", -- Madara Staff 28/03/26 12/08/53
+    "Milena_Martins77" -- ꧁ .𝕮𝖗𝖚𝖊𝖑𝖑𝖆 .꧂ Staff 29/03/26 13/08/53
 }
