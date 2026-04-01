@@ -12,7 +12,7 @@ return {
     "andrielebibi", -- driih 03/03 03/07
     "DanieR7Play", -- DnZinN 05/03 12/04
     "K1LL_py", -- kill 04/03 04/07
-    "daviii08", -- 07/03 03/04
+    "daviiie08", -- 07/03 03/04
     "Hetien", -- 23/03 22/04
     "Mateusx9992", -- João Vitor 28/03/26 02/04/26
     "l_rrz01", -- 𝐀𝐥𝐩𝐡𝐚' Staff 30/03/26 07/12/39
