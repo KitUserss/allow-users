@@ -16,7 +16,7 @@ return {
     "Hetien", -- 23/03 22/04
     "Mateusx9992", -- João Vitor 28/03/26 02/04/26
     "l_rrz01", -- 𝐀𝐥𝐩𝐡𝐚' Staff 30/03/26 07/12/39
-    "eduardo_billgate", -- Duoc 01/04/26 06/04/26
+    "eduardo_billgate", -- Duoc 01/04/26 10/06/26
     "Jv200278", -- Madara Staff 28/03/26 12/08/53
     "Milena_Martins77", -- ꧁ .𝕮𝖗𝖚𝖊𝖑𝖑𝖆 .꧂ Staff 29/03/26 13/08/53
     "testevinivini" -- imojisen@gmail.com.br 01/04/26 04/04/26
