@@ -18,5 +18,6 @@ return {
     "Jv200278", -- Madara Staff 28/03/26 12/08/53
     "Milena_Martins77", -- ꧁ .𝕮𝖗𝖚𝖊𝖑𝖑𝖆 .꧂ Staff 29/03/26 13/08/53
     "testevinivini", -- imojisen@gmail.com.br 01/04/26 04/04/26
-    "xVenomDev" -- 𝚅𝚎𝚗𝚘𝚖 02/04/26 18/08/53
+    "xVenomDev", -- 𝚅𝚎𝚗𝚘𝚖 02/04/26 18/08/53
+    "Hetien" -- ༺ Jolli ༻ 02/04/26 18/08/53
 }
