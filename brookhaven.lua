@@ -19,5 +19,6 @@ return {
     "testevinivini", -- imojisen@gmail.com.br 01/04/26 04/04/26
     "xVenomDev", -- 𝚅𝚎𝚗𝚘𝚖 02/04/26 18/08/53
     "Hetien", -- ༺ Jolli ༻ 02/04/26 18/08/53
-    "Lostxpzz" -- إيمان 02/04/26 17/08/53
+    "Lostxpzz", -- إيمان 02/04/26 17/08/53
+    "l_rrz01" -- ألفا 02/04/26 27/12/28
 }
