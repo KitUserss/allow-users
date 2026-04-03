@@ -21,5 +21,5 @@ return {
     "Hetien", -- ༺ Jolli ༻ 02/04/26 18/08/53
     "Lostxpzz", -- إيمان 02/04/26 17/08/53
     "l_rrz01", -- ألفا 02/04/26 27/12/28
-    "ddrrfdrrrrrrr" -- absoluto zero 🫪 03/04/26 05/04/26
+    "ddrrfdrrrrrrr" -- absoluto zero 🫪 03/04/26 20/01/68
 }
