@@ -22,5 +22,6 @@ return {
     "Luiz548202", -- Bazuka 05/04/26 25/04/26
     "PrimalC00kie201892", -- unknown999 05/04/26 06/05/26
     "Ezequiel47537", -- Loritta 05/04/26 13/04/26
-    "Wolfgang_227" -- [Moderador] D7 DA PENHA 07/04/26 23/08/53
+    "Wolfgang_227", -- [Moderador] D7 DA PENHA 07/04/26 23/08/53
+    "vteteus" -- [Divulgador] Pietro 07/04/26 01/01/29
 }
