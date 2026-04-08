@@ -5,6 +5,7 @@ return {
     "Gabriel263633j", -- Passarinho
     "JustWX99s", -- Dabruxis
     "PowerLegendSpark2018", -- Dev Spawn
+    "skatetutu", -- wzz
     "olliver2045judoca", -- frost Mod Ult
     "ziovxoo", -- Xuung Divulgador
     "sansu2449", -- mv Divulgador
@@ -23,5 +24,6 @@ return {
     "PrimalC00kie201892", -- unknown999 05/04/26 06/05/26
     "Ezequiel47537", -- Loritta 05/04/26 13/04/26
     "Wolfgang_227", -- [Moderador] D7 DA PENHA 07/04/26 23/08/53
+    "sadzin131", -- pietro divulgador
     "vteteus" -- [Divulgador] Pietro 07/04/26 01/01/29
 }
