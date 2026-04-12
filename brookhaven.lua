@@ -11,7 +11,6 @@ return {
     "sansu2449", -- mv Divulgador
     "sansu78906", -- mv Divulgador
     "andrielebibi", -- driih 03/03 03/07
-    "DanieR7Play", -- DnZinN 05/03 12/04
     "K1LL_py", -- kill 04/03 04/07
     "daviiie08", -- 07/03 03/04
     "eduardo_billgate", -- Duoc 01/04/26 17/08/53
