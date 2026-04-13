@@ -10,6 +10,7 @@ return {
     "ziovxoo", -- Xuung Divulgador
     "sansu2449", -- mv Divulgador
     "sansu78906", -- mv Divulgador
+    "higorFARM_FM", -- Higzada "possível divulgador"
     "andrielebibi", -- driih 03/03 03/07
     "K1LL_py", -- kill 04/03 04/07
     "daviiie08", -- 07/03 03/04
