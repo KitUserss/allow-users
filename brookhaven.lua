@@ -19,7 +19,6 @@ return {
     "xVenomDev", -- 𝚅𝚎𝚗𝚘𝚖 02/04/26 18/08/53
     "Hetien", -- ༺ Jolli ༻ 02/04/26 18/08/53
     "ddrrfdrrrrrrr", -- absoluto zero 🫪 03/04/26 20/01/68
-    "Luiz548202", -- Bazuka 05/04/26 25/04/26
     "PrimalC00kie201892", -- unknown999 05/04/26 06/05/26
     "Wolfgang_227", -- [Moderador] D7 DA PENHA 07/04/26 23/08/53
     "sadzin131", -- pietro divulgador
