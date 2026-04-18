@@ -15,7 +15,6 @@ return {
     "K1LL_py", -- kill 04/03 04/07
     "daviiie08", -- 07/03 03/04
     "eduardo_billgate", -- Duoc 01/04/26 17/08/53
-    "Jv200278", -- Madara Staff 28/03/26 12/08/53
     "Milena_Martins77", -- ꧁ .𝕮𝖗𝖚𝖊𝖑𝖑𝖆 .꧂ Staff 29/03/26 13/08/53
     "xVenomDev", -- 𝚅𝚎𝚗𝚘𝚖 02/04/26 18/08/53
     "Hetien", -- ༺ Jolli ༻ 02/04/26 18/08/53
