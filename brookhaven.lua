@@ -23,5 +23,6 @@ return {
     "Wolfgang_227", -- [Moderador] D7 DA PENHA 07/04/26 23/08/53
     "sadzin131", -- pietro divulgador
     "vteteus", -- [Divulgador] Pietro 07/04/26 01/01/29
-    "narutinho_123437" -- EOGB👀 11/04/26 27/08/53
+    "narutinho_123437", -- EOGB👀 11/04/26 27/08/53
+    "simeumsm3" -- ★~𝓛𝓪𝓻𝓲 ~★ 20/04/26 05/09/53
 }
