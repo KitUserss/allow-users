@@ -27,5 +27,5 @@ return {
     "simeumsm3", -- Sophya 23/04/26 26/04/26
     "Enzola1237xb", -- enzozx_ 23/04/26 26/04/26
     "hetien", -- ! 3ʇuɐʍsʞɔɐןᙠ 23/04/26 08/09/53
-    "eu_morena2445" -- Sophya 23/04/26 30/04/26
+    "eu_morena2445" -- Sophya 23/04/26 19/03/64
 }
