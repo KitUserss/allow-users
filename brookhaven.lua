@@ -22,7 +22,6 @@ return {
     "Wolfgang_227", -- [Moderador] D7 DA PENHA 07/04/26 23/08/53
     "sadzin131", -- pietro divulgador
     "vteteus", -- [Divulgador] Pietro 07/04/26 01/01/29
-    "narutinho_123437", -- EOGB👀 11/04/26 27/08/53
     "simeumsm3", -- Sophya 23/04/26 26/04/26
     "Enzola1237xb", -- enzozx_ 23/04/26 26/04/26
     "hetien", -- ! 3ʇuɐʍsʞɔɐןᙠ 23/04/26 08/09/53
