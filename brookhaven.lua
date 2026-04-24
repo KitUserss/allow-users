@@ -27,5 +27,6 @@ return {
     "Enzola1237xb", -- enzozx_ 23/04/26 26/04/26
     "hetien", -- ! 3ʇuɐʍsʞɔɐןᙠ 23/04/26 08/09/53
     "eu_morena2445", -- Sophya 23/04/26 26/04/26
-    "marcodoido28" -- _NUNES_ 23/04/26 23/05/26
+    "marcodoido28", -- _NUNES_ 23/04/26 23/05/26
+    "ddrrfdrrrrrrr" -- absoluto zero lindo 24/04/26 28/06/45
 }
