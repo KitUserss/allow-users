@@ -18,7 +18,6 @@ return {
     "Milena_Martins77", -- ꧁ .𝕮𝖗𝖚𝖊𝖑𝖑𝖆 .꧂ Staff 29/03/26 13/08/53
     "xVenomDev", -- 𝚅𝚎𝚗𝚘𝚖 02/04/26 18/08/53
     "Hetien", -- ! 3ʇuɐʍsʞɔɐןᙠ 23/04/26 08/09/53
-    "ddrrfdrrrrrrr", -- absoluto zero 🫪 03/04/26 20/01/68
     "PrimalC00kie201892", -- unknown999 05/04/26 06/05/26
     "Wolfgang_227", -- [Moderador] D7 DA PENHA 07/04/26 23/08/53
     "sadzin131", -- pietro divulgador
