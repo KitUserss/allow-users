@@ -15,7 +15,7 @@ return {
     "K1LL_py", -- kill 04/03 04/07
     "daviiie08", -- 07/03 03/04
     "eduardo_billgate", -- Duoc 01/04/26 17/08/53
-    "Milena_Martins77", -- ꧁ .𝕮𝖗𝖚𝖊𝖑𝖑𝖆 .꧂ Staff 29/03/26 13/08/53
+    "Milena_Martins77", -- 𝕮𝖗𝖚𝖊𝖑𝖑𝖆 𝕱𝖆𝖗𝖗𝖆𝖕𝖔 25/04/26 21/03/64
     "xVenomDev", -- 𝚅𝚎𝚗𝚘𝚖 02/04/26 18/08/53
     "Hetien", -- ! 3ʇuɐʍsʞɔɐןᙠ 23/04/26 08/09/53
     "PrimalC00kie201892", -- unknown999 05/04/26 06/05/26
