@@ -17,7 +17,6 @@ return {
     "eduardo_billgate", -- 𝔇𝔲𝔪 #F the best 26/04/26 10/09/53
     "Milena_Martins77", -- 𝕮𝖗𝖚𝖊𝖑𝖑𝖆 𝕱𝖆𝖗𝖗𝖆𝖕𝖔 25/04/26 21/03/64
     "xVenomDev", -- 𝚅𝚎𝚗𝚘𝚖 02/04/26 18/08/53
-    "Hetien", -- ! 3ʇuɐʍsʞɔɐןᙠ 23/04/26 08/09/53
     "PrimalC00kie201892", -- unknown999 05/04/26 06/05/26
     "Wolfgang_227", -- [Moderador] D7 DA PENHA 07/04/26 23/08/53
     "sadzin131", -- pietro divulgador
