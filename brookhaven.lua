@@ -2,7 +2,6 @@ return {
     "Breno010L", -- Bazukita
     "RUANRODRIGO121121", -- Sak
     "StaffordMakayla783", -- bazuka
-    "Gabriel263633j", -- Passarinho
     "JustWX99s", -- Dabruxis
     "PowerLegendSpark2018", -- Dev Spawn
     "skatetutu", -- wzz
