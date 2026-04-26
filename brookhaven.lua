@@ -27,6 +27,5 @@ return {
     "rockyfan123kk", -- Rocky 26/04/26 03/05/26
     "simeumsm3", -- ★~𝓛𝓪𝓻𝓲 ~★ 26/04/26 22/03/64
     "siMasturb122445", -- 🥀 ryuzaky' 26/04/26 12/05/34
-    "rockyfan133kk", -- Rocky 26/04/26 03/05/26
-    "LUIGI_CRIA9987" -- Sky 26/04/26 15/06/08
+    "rockyfan133kk" -- Rocky 26/04/26 03/05/26
 }
