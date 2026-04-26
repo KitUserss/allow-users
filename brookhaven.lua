@@ -28,5 +28,6 @@ return {
     "eu_morena2445", -- Sophya 23/04/26 26/04/26
     "marcodoido28", -- _NUNES_ 23/04/26 23/05/26
     "ddrrfdrrrrrrr", -- absoluto zero lindo 24/04/26 28/06/45
-    "freezx108" -- 𝕱𝖗𝖊𝖊𝖟⁷ 25/04/26 09/09/53
+    "freezx108", -- 𝕱𝖗𝖊𝖊𝖟⁷ 25/04/26 09/09/53
+    "white_267" -- Rocky 26/04/26 03/05/26
 }
