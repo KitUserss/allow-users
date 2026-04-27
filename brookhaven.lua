@@ -17,7 +17,6 @@ return {
     "Milena_Martins77", -- 𝕮𝖗𝖚𝖊𝖑𝖑𝖆 𝕱𝖆𝖗𝖗𝖆𝖕𝖔 25/04/26 21/03/64
     "xVenomDev", -- 𝚅𝚎𝚗𝚘𝚖 02/04/26 18/08/53
     "PrimalC00kie201892", -- unknown999 05/04/26 06/05/26
-    "Wolfgang_227", -- [Moderador] D7 DA PENHA 07/04/26 23/08/53
     "sadzin131", -- pietro divulgador
     "vteteus", -- [Divulgador] Pietro 07/04/26 01/01/29
     "marcodoido28", -- _NUNES_ 23/04/26 23/05/26
