@@ -27,5 +27,6 @@ return {
     "rockyfan133kk", -- Rocky 26/04/26 03/05/26
     "LUIGI_CRIA9987", -- Sky 26/04/26 11/09/53
     "Guinov11", -- Guilhermexeracu 26/04/26 28/04/26
-    "Soares_rlk65" -- SOARES 27/04/26 08/03/59
+    "Soares_rlk65", -- SOARES 27/04/26 08/03/59
+    "KuonNL" -- 𝔇𝔲𝔪 ANGEL 27/04/26 05/03/59
 }
