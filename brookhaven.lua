@@ -24,7 +24,6 @@ return {
     "ddrrfdrrrrrrr", -- absoluto zero lindo 24/04/26 28/06/45
     "freezx108", -- 𝕱𝖗𝖊𝖊𝖟⁷ 25/04/26 09/09/53
     "white_267", -- Rocky 26/04/26 03/05/26
-    "rockyfan123kk", -- Rocky 26/04/26 03/05/26
     "simeumsm3", -- ★~𝓛𝓪𝓻𝓲 ~★ 26/04/26 22/03/64
     "siMasturb122445", -- 🥀 ryuzaky' 26/04/26 12/05/34
     "rockyfan133kk", -- Rocky 26/04/26 03/05/26
