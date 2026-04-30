@@ -23,9 +23,10 @@ return {
     "ddrrfdrrrrrrr", -- absoluto zero lindo 24/04/26 28/06/45
     "freezx108", -- 𝕱𝖗𝖊𝖊𝖟⁷ 25/04/26 09/09/53
     "simeumsm3", -- ★~𝓛𝓪𝓻𝓲 ~★ 26/04/26 22/03/64
-    "siMasturb122445", -- 🥀 ryuzaky' 26/04/26 12/05/34
     "rockyfan133kk", -- Rocky 26/04/26 03/05/26
     "LUIGI_CRIA9987", -- Sky 26/04/26 11/09/53
     "Soares_rlk65", -- SOARES 27/04/26 08/03/59
-    "KuonNL" -- 𝔇𝔲𝔪 ANGEL 27/04/26 05/03/59
+    "KuonNL", -- 𝔇𝔲𝔪 ANGEL 27/04/26 05/03/59
+    "SATORO_GOJO929" -- 29/04 30/04
+    "sammy_lovedahy" -- muie do ryu
 }
