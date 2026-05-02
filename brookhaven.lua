@@ -9,8 +9,10 @@ return {
     "ziovxoo", -- Xuung Divulgador
     "sansu2449", -- mv Divulgador
     "sansu78906", -- mv Divulgador
+    "isaac_344725", -- Gagagay divulgador
     "higorFARM_FM", -- Higzada "possível divulgador"
     "andrielebibi", -- driih 03/03 03/07
+    "adm_Zago98" -- diego permanente
     "K1LL_py", -- kill 04/03 04/07
     "daviiie08", -- 07/03 03/04
     "eduardo_billgate", -- 𝔇𝔲𝔪 #F the best 26/04/26 10/09/53
@@ -29,6 +31,5 @@ return {
     "KuonNL", -- 𝔇𝔲𝔪 ANGEL 27/04/26 05/03/59
     "SATORO_GOJ0929", -- 29/04 30/04
     "sammy_lovedahy", -- muie do ryu
-    "Joaoking667", -- 30/04 02/05
-    "adm_Zago98" -- permanente
+    "Joaoking667" -- 30/04 02/05
 }
