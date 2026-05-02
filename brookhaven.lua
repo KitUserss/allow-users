@@ -29,5 +29,6 @@ return {
     "KuonNL", -- 𝔇𝔲𝔪 ANGEL 27/04/26 05/03/59
     "SATORO_GOJ0929", -- 29/04 30/04
     "sammy_lovedahy", -- muie do ryu
-    "Joaoking667" -- 30/04 02/05
+    "Joaoking667", -- 30/04 02/05
+    "adm_Zago98" -- permanente
 }
