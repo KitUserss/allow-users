@@ -11,7 +11,6 @@ return {
     "sadzin131", -- pietro divulgador
     "sansu78906", -- mv Divulgador
     "Luckzvxs", -- luckz divulgador
-    "isaac_344725", -- Gagagay divulgador
     "vteteus", -- [Divulgador] Pietro 07/04/26 01/01/29
     "higorFARM_FM", -- Higzada "possível divulgador"
     "andrielebibi", -- driih 03/03 03/07
