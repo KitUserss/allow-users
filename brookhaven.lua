@@ -7,6 +7,7 @@ return {
     "skatetutu", -- wzz
     "olliver2045judoca", -- frost Mod Ult
     "ziovxoo", -- Xuung Divulgador
+    "isaac_344725", -- Gagadev divulgador
     "sansu2449", -- mv Divulgador
     "sadzin131", -- pietro divulgador
     "sansu78906", -- mv Divulgador
