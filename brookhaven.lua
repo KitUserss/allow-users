@@ -24,6 +24,7 @@ return {
     "marcodoido28", -- _NUNES_ 28/04/26 24/03/64
     "ddrrfdrrrrrrr", -- absoluto zero lindo 24/04/26 28/06/45
     "freezx108", -- 𝕱𝖗𝖊𝖊𝖟⁷ 25/04/26 09/09/53
+    "testevinivini", -- mrt00 06/05/26 06/06/26
     "simeumsm3", -- ★~𝓛𝓪𝓻𝓲 ~★ 26/04/26 22/03/64
     "LUIGI_CRIA9987", -- Sky 26/04/26 11/09/53
     "Soares_rlk65", -- SOARES 27/04/26 08/03/59
