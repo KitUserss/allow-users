@@ -20,10 +20,7 @@ return {
     "eduardo_billgate", -- 𝔇𝔲𝔪 #F the best 26/04/26 10/09/53
     "Milena_Martins77", -- 𝕮𝖗𝖚𝖊𝖑𝖑𝖆 𝕱𝖆𝖗𝖗𝖆𝖕𝖔 25/04/26 21/03/64
     "xVenomDev", -- 𝚅𝚎𝚗𝚘𝚖 02/04/26 18/08/53
-    "PrimalC00kie201892", -- unknown999 05/04/26 06/05/26
-    "marcodoido28", -- _NUNES_ 28/04/26 24/03/64
     "ddrrfdrrrrrrr", -- absoluto zero lindo 24/04/26 28/06/45
-    "freezx108", -- 𝕱𝖗𝖊𝖊𝖟⁷ 25/04/26 09/09/53
     "testevinivini", -- mrt00 06/05/26 06/06/26
     "simeumsm3", -- ★~𝓛𝓪𝓻𝓲 ~★ 26/04/26 22/03/64
     "LUIGI_CRIA9987", -- Sky 26/04/26 11/09/53
