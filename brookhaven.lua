@@ -27,4 +27,5 @@ return {
     "Soares_rlk65", -- SOARES 27/04/26 08/03/59
     "KuonNL", -- 𝔇𝔲𝔪 ANGEL 27/04/26 05/03/59
     "sammy_lovedahy" -- muie do ryu
+    "lol6x10" -- 10/05 17/05
 }
