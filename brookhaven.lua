@@ -1,7 +1,7 @@
 return {
     "Breno010L", -- Bazukita
     "RUANRODRIGO121121", -- Sak
-    "StaffordMakayla783", -- bazuka
+    "lushmart", -- bazuka
     "andrielebibi", -- driih 03/03 03/07
     "adm_Zago98", -- diego permanente
     "K1LL_py", -- kill 04/03 04/07
