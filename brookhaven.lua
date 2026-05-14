@@ -11,5 +11,6 @@ return {
     "simeumsm3", -- ★~𝓛𝓪𝓻𝓲 ~★ 26/04/26 22/03/64
     "juniorharker", -- felipe div 26/04/26 22/03/64
     "sammy_lovedahy", -- muie do ryu
-    "lol6x10" -- 10/05 17/05
+    "lol6x10", -- 10/05 17/05
+    "batataamassada895" -- 14/05 17/05
 }
