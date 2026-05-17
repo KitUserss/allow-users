@@ -13,5 +13,6 @@ return {
     "sem_chat727", -- 17/05 22/05
     "Wzleandro7", -- Wzleandro7 17/05/26 24/05/26
     "dioguebas11", -- 17/05 22/05
-    "jog7protrem" -- LN Dev 17/05/26 24/05/26
+    "jog7protrem", -- LN Dev 17/05/26 24/05/26
+    "luan04082011" -- LN Dev 17/05/26 24/05/26
 }
