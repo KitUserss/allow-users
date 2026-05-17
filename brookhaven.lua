@@ -12,5 +12,6 @@ return {
     "sammy_lovedahy", -- muie do ryu
     "sem_chat727", -- 17/05 22/05
     "Wzleandro7", -- Wzleandro7 17/05/26 24/05/26
-    "dioguebas11" -- 17/05 22/05
+    "dioguebas11", -- 17/05 22/05
+    "jog7protrem" -- LN Dev 17/05/26 24/05/26
 }
