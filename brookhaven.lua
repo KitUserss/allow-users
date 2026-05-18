@@ -8,7 +8,7 @@ return {
     "AXSgbriel", -- Gabriel 11/05/26 11/06/26
     "testevinivini", -- mrt00 06/05/26 06/06/26
     "simeumsm3", -- ★~𝓛𝓪𝓻𝓲 ~★ 26/04/26 22/03/64
-    "juniorharker", -- felipe div 26/04/26 22/03/64
+    "mikeyzinho49", -- felipe div 26/04/26 22/03/64
     "sammy_lovedahy", -- muie do ryu
     "sem_chat727", -- 17/05 22/05
     "Wzleandro7", -- Wzleandro7 17/05/26 24/05/26
