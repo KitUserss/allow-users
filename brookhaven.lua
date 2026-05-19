@@ -16,5 +16,6 @@ return {
     "Wzleandro7", -- Wzleandro7 Criador De Ids
     "dioguebas11", -- 17/05 22/05
     "jog7protrem", -- LN Dev 17/05/26 24/05/26
-    "luan04082011" -- LN Dev 17/05/26 24/05/26
+    "luan04082011", -- LN Dev 17/05/26 24/05/26
+    "Hetien" --jolli
 }
