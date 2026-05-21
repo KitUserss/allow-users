@@ -5,6 +5,7 @@ return {
     "andrielebibi", -- driih 03/03 03/07
     "Hetien", -- Hetien 26/04/26 22/03/64
     "adm_Zago98", -- diego permanente
+    "Eduardo_billgate", -- Filho do ryu
     "K1LL_py", -- kill 04/03 04/07
     "AXSgbriel", -- Gabriel 11/05/26 11/06/26
     "testevinivini", -- mrt00 06/05/26 06/06/26
@@ -17,6 +18,5 @@ return {
     "dioguebas11", -- 17/05 22/05
     "jog7protrem", -- LN Dev 17/05/26 24/05/26
     "luan04082011", -- LN Dev 17/05/26 24/05/26
-    "Hetien", -- jolli
     "hdjdhdhurhrjtl" -- Springtrap FF 🔥 20/05/26 23/05/26
 }
