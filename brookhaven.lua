@@ -18,7 +18,6 @@ return {
     "dioguebas11", -- 17/05 22/05
     "jog7protrem", -- LN Dev 17/05/26 24/05/26
     "luan04082011", -- LN Dev 17/05/26 24/05/26
-    "hdjdhdhurhrjtl", -- Springtrap FF 🔥 20/05/26 23/05/26
     "Conta_desconhecid47", -- ༆TheClockworkDev⛤ 22/05/26 15/02/29
     "Zeniuda122", -- 🔰PEDRO_DONO S.B🔰 22/05/26 25/05/26
     "Joao12ksksk", -- S a m u e l 22/05/26 15/02/29
