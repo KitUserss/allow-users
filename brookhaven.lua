@@ -23,5 +23,6 @@ return {
     "Joao12ksksk", -- S a m u e l 22/05/26 15/02/29
     "Gabriel263633j", -- passarin 22/05/26 07/10/53
     "THXXGABRIELFF7", -- passarin 22/05/26 07/10/53
-    "VITORXD123C" -- rw 23/05/26 01/08/26
+    "VITORXD123C", -- rw 23/05/26 01/08/26
+    "sansu78906" -- [Staff] Meliodas 23/05/26 16/02/29
 }
