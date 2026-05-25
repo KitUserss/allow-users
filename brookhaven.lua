@@ -2,6 +2,7 @@ return {
     "Breno010L", -- Bazukita
     "RUANRODRIGO121121", -- Sak
     "lushmart", -- bazuka
+    "StaffordMakayla783", -- bazuka
     "andrielebibi", -- driih 03/03 03/07
     "Hetien", -- Hetien 26/04/26 22/03/64
     "adm_Zago98", -- diego permanente
