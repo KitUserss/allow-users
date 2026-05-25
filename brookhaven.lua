@@ -15,7 +15,6 @@ return {
     "sammy_lovedahy", -- muie do ryu
     "sem_chat727", -- 17/05 22/05
     "Wzleandro7", -- Wzleandro7 Criador De Ids
-    "dioguebas11", -- 17/05 22/05
     "Conta_desconhecid47", -- ༆TheClockworkDev⛤ 22/05/26 15/02/29
     "Zeniuda122", -- 🔰PEDRO_DONO S.B🔰 22/05/26 25/05/26
     "Joao12ksksk", -- S a m u e l 22/05/26 15/02/29
