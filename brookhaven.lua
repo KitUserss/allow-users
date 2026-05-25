@@ -16,7 +16,6 @@ return {
     "sem_chat727", -- 17/05 22/05
     "Wzleandro7", -- Wzleandro7 Criador De Ids
     "Conta_desconhecid47", -- ༆TheClockworkDev⛤ 22/05/26 15/02/29
-    "Zeniuda122", -- 🔰PEDRO_DONO S.B🔰 22/05/26 25/05/26
     "Joao12ksksk", -- S a m u e l 22/05/26 15/02/29
     "Gabriel263633j", -- passarin 22/05/26 07/10/53
     "THXXGABRIELFF7", -- passarin 22/05/26 07/10/53
