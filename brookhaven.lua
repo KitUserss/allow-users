@@ -23,5 +23,6 @@ return {
     "VITORXD123C", -- rw 23/05/26 01/08/26
     "sansu78906", -- [Staff] Meliodas 23/05/26 16/02/29
     "sadzin131", -- Pietroxxpz 24/05/26 08/09/51
-    "dodo212110" -- ZEROSEIS 24/05/26 27/05/26
+    "dodo212110", -- ZEROSEIS 24/05/26 27/05/26
+    "roubei_brairot23" --24/05 27/05
 }
