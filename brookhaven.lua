@@ -17,7 +17,6 @@ return {
     "Wzleandro7", -- Wzleandro7 Criador De Ids
     "Conta_desconhecid47", -- ༆TheClockworkDev⛤ 22/05/26 15/02/29
     "Joao12ksksk", -- S a m u e l 22/05/26 15/02/29
-    "THXXGABRIELFF7", -- passarin 22/05/26 07/10/53
     "VITORXD123C", -- rw 23/05/26 01/08/26
     "sansu78906", -- [Staff] Meliodas 23/05/26 16/02/29
     "sadzin131", -- Pietroxxpz 24/05/26 08/09/51
