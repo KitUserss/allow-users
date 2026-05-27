@@ -24,6 +24,5 @@ return {
     "roubei_brairot23", -- 24/05 27/05
     "Sem_chat727", -- ! Dark 26/05/26 19/02/29
     "78Rafaa", -- Rf 26/05/26 25/06/26
-    "p9hasahs", -- VETERANO Palacio ム 26/05/26 12/11/53
-    "testeee" -- [ Owner ] Bazuka 27/05/26 20/02/29
+    "p9hasahs" -- VETERANO Palacio ム 26/05/26 12/11/53
 }
