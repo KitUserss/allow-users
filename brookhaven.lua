@@ -13,7 +13,6 @@ return {
     "cantanguandi2", -- 𝐏𝐇𝐙𝐈𝐍 22/05/26 15/02/29
     "simeumsm3", -- ★~𝓛𝓪𝓻𝓲 ~★ 26/04/26 22/03/64
     "mikeyzinho49", -- felipe div 26/04/26 22/03/64
-    "sammy_lovedahy", -- muie do ryu
     "Wzleandro7", -- Wzleandro7 Criador De Ids
     "Conta_desconhecid47", -- ༆TheClockworkDev⛤ 22/05/26 15/02/29
     "Joao12ksksk", -- S a m u e l 22/05/26 15/02/29
@@ -24,5 +23,6 @@ return {
     "roubei_brairot23", -- 24/05 27/05
     "Sem_chat727", -- ! Dark 26/05/26 19/02/29
     "78Rafaa", -- Rf 26/05/26 25/06/26
-    "p9hasahs" -- VETERANO Palacio ム 26/05/26 12/11/53
+    "p9hasahs", -- VETERANO Palacio ム 26/05/26 12/11/53
+    "adminbrookhavenr" -- teste-
 }
