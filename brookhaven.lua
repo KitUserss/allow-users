@@ -21,7 +21,7 @@ return {
     "sadzin131", -- Pietroxxpz 24/05/26 08/09/51
     "roubei_brairot23", -- 24/05 27/05
     "Sem_chat727", -- ! Dark 26/05/26 19/02/29
-    "78Rafaa", -- Rf 26/05/26 25/06/26
+    "78Rafaa", -- RF 04/06/26 11/06/26
     "p9hasahs", -- VETERANO Palacio ム 26/05/26 12/11/53
     "adminbrookhavenr" -- teste-
 }
