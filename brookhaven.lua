@@ -23,5 +23,6 @@ return {
     "Sem_chat727", -- ! Dark 26/05/26 19/02/29
     "78Rafaa", -- RF 04/06/26 11/06/26
     "p9hasahs", -- VETERANO Palacio ム 26/05/26 12/11/53
-    "adminbrookhavenr" -- teste-
+    "adminbrookhavenr", -- teste-
+    "itz_blackzinh01" -- 𝑱𝑩 04/06/26 11/06/26
 }
