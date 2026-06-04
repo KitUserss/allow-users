@@ -19,7 +19,6 @@ return {
     "VITORXD123C", -- rw 23/05/26 01/08/26
     "sansu78906", -- [Staff] Meliodas 23/05/26 16/02/29
     "sadzin131", -- Pietroxxpz 24/05/26 08/09/51
-    "RYMIFRUIT", -- ZΞryan.exe 25/05/26 04/06/26
     "roubei_brairot23", -- 24/05 27/05
     "Sem_chat727", -- ! Dark 26/05/26 19/02/29
     "78Rafaa", -- Rf 26/05/26 25/06/26
