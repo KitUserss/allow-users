@@ -9,7 +9,6 @@ return {
     "Eduardo_billgate", -- Filho do ryu
     "K1LL_py", -- kill 04/03 04/07
     "AXSgbriel", -- Gabriel 11/05/26 11/06/26
-    "testevinivini", -- mrt00 06/05/26 06/06/26
     "cantanguandi2", -- 𝐏𝐇𝐙𝐈𝐍 22/05/26 15/02/29
     "simeumsm3", -- ★~𝓛𝓪𝓻𝓲 ~★ 26/04/26 22/03/64
     "mikeyzinho49", -- felipe div 26/04/26 22/03/64
