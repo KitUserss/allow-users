@@ -26,5 +26,6 @@ return {
     "itz_blackzinh01", -- 𝑱𝑩 04/06/26 11/06/26
     "ibson_queiroz", -- Assaltante com sede e TDAH 04/06/26 11/06/26
     "TrollLinux", -- s 05/06/26 01/03/29
-    "MezaMichaelaz77" -- ⛩|₦iͥnjͣaͫᴳᵒᵈ 06/06/26 09/06/26
+    "MezaMichaelaz77", -- ⛩|₦iͥnjͣaͫᴳᵒᵈ 06/06/26 09/06/26
+    "Otavio3D10 cliente" -- D4RKsboxx 06/06/26 13/06/26
 }
