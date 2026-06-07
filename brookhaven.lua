@@ -28,5 +28,6 @@ return {
     "TrollLinux", -- s 05/06/26 01/03/29
     "MezaMichaelaz77", -- ⛩|₦iͥnjͣaͫᴳᵒᵈ 06/06/26 09/06/26
     "Otavio3D10 cliente", -- D4RKsboxx 06/06/26 13/06/26
-    "Two_nov" -- Demon 07/06/26 08/06/26
+    "Two_nov", -- Demon 07/06/26 08/06/26
+    "Its_foguinho" -- The Realy'🥷🏽 07/06/26 10/06/26
 }
