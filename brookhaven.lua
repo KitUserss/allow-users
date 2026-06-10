@@ -26,6 +26,5 @@ return {
     "ibson_queiroz", -- Assaltante com sede e TDAH 04/06/26 11/06/26
     "TrollLinux", -- s 05/06/26 01/03/29
     "Otavio3D10 cliente", -- D4RKsboxx 06/06/26 13/06/26
-    "Two_nov", -- Demon 08/06/26 11/06/26
-    "Its_foguinho" -- The Realy'🥷🏽 07/06/26 10/06/26
+    "Two_nov" -- Demon 08/06/26 11/06/26
 }
