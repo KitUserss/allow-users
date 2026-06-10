@@ -1,5 +1,4 @@
 return {
-    "Breno010L", -- Bazukita
     "RUANRODRIGO121121", -- Sak
     "lushmart", -- bazuka
     "StaffordMakayla783", -- bazuka
