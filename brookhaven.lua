@@ -5,10 +5,8 @@ return {
     "andrielebibi", -- driih 03/03 03/07
     "Hetien", -- Hetien 26/04/26 22/03/64
     "adm_Zago98", -- diego permanente
-    "Eduardo_billgate", -- Filho do ryu
     "K1LL_py", -- kill 04/03 04/07
     "cantanguandi2", -- 𝐏𝐇𝐙𝐈𝐍 22/05/26 15/02/29
-    "simeumsm3", -- ★~𝓛𝓪𝓻𝓲 ~★ 26/04/26 22/03/64
     "mikeyzinho49", -- felipe div 26/04/26 22/03/64
     "Wzleandro7", -- Wzleandro7 Criador De Ids
     "Conta_desconhecid47", -- ༆TheClockworkDev⛤ 22/05/26 15/02/29
@@ -22,5 +20,6 @@ return {
     "adminbrookhavenr", -- teste-
     "TrollLinux", -- s 05/06/26 01/03/29
     "eu_nsouyay", -- Bazuka 10/06/26 09/08/26
-    "Otavio3D10" -- D4RKsboxx 11/06/26 13/06/26
+    "Otavio3D10", -- D4RKsboxx 11/06/26 13/06/26
+    "Hdjdhdhurhrjtl" -- Springtrap 11/06 15/06
 }
