@@ -21,5 +21,6 @@ return {
     "TrollLinux", -- s 05/06/26 01/03/29
     "eu_nsouyay", -- Bazuka 10/06/26 09/08/26
     "Otavio3D10", -- D4RKsboxx 11/06/26 13/06/26
-    "Hdjdhdhurhrjtl" -- Springtrap 11/06 15/06
+    "Hdjdhdhurhrjtl", -- Springtrap 11/06 15/06
+    "two_nov" -- W 11/06/26 27/10/53
 }
