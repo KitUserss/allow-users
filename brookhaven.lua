@@ -1,4 +1,5 @@
 return {
+    "Breno010L", -- Bazuka
     "lushmart", -- bazuka
     "StaffordMakayla783", -- bazuka
     "andrielebibi", -- driih 03/03 03/07
