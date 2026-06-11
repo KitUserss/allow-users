@@ -22,5 +22,6 @@ return {
     "eu_nsouyay", -- Bazuka 10/06/26 09/08/26
     "Otavio3D10", -- D4RKsboxx 11/06/26 13/06/26
     "Hdjdhdhurhrjtl", -- Springtrap 11/06 15/06
-    "two_nov" -- W 11/06/26 27/10/53
+    "two_nov", -- W 11/06/26 27/10/53
+    "samuel225ru" -- ✟𝔐𝔦𝔨𝔢𝔶☯ STORE 11/06/26 16/06/26
 }
