@@ -22,5 +22,6 @@ return {
     "eu_nsouyay", -- Bazuka 10/06/26 09/08/26
     "two_nov", -- W 11/06/26 27/10/53
     "samuel225ru", -- ✟𝔐𝔦𝔨𝔢𝔶☯ STORE 11/06/26 16/06/26
-    "Zueiro_bilionario" -- Dark7 14/06/26 17/06/26
+    "Zueiro_bilionario", -- Dark7 14/06/26 17/06/26
+    "Bomdia" -- KitK4t Hub | Admin 15/06/26 18/06/26
 }
