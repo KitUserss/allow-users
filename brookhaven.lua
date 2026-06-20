@@ -8,7 +8,6 @@ return {
     "K1LL_py", -- kill 04/03 04/07
     "cantanguandi2", -- 𝐏𝐇𝐙𝐈𝐍 22/05/26 15/02/29
     "Wzleandro7", -- Wzleandro7 Criador De Ids
-    "VITORXD123C", -- rw 23/05/26 01/08/26
     "p9hasahs", -- VETERANO Palacio ム 26/05/26 12/11/53
     "adminbrookhavenr", -- teste-
     "TrollLinux", -- s 05/06/26 01/03/29
