@@ -9,7 +9,6 @@ return {
     "cantanguandi2", -- 𝐏𝐇𝐙𝐈𝐍 22/05/26 15/02/29
     "Wzleandro7", -- Wzleandro7 Criador De Ids
     "p9hasahs", -- VETERANO Palacio ム 26/05/26 12/11/53
-    "adminbrookhavenr", -- teste-
     "TrollLinux", -- s 05/06/26 01/03/29
     "Strix_Thiago", -- Thiozin 16/06/26 21/06/26
     "alusonve" -- Victor 19/06/26 19/07/26
