@@ -15,7 +15,6 @@ return {
     "sansu78906", -- [Staff] Meliodas 23/05/26 16/02/29
     "sadzin131", -- Pietroxxpz 24/05/26 08/09/51
     "roubei_brairot23", -- 24/05 27/05
-    "Sem_chat727", -- ! Dark 26/05/26 19/02/29
     "p9hasahs", -- VETERANO Palacio ム 26/05/26 12/11/53
     "adminbrookhavenr", -- teste-
     "TrollLinux", -- s 05/06/26 01/03/29
