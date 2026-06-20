@@ -7,7 +7,6 @@ return {
     "adm_Zago98", -- diego permanente
     "K1LL_py", -- kill 04/03 04/07
     "cantanguandi2", -- 𝐏𝐇𝐙𝐈𝐍 22/05/26 15/02/29
-    "mikeyzinho49", -- felipe div 26/04/26 22/03/64
     "Wzleandro7", -- Wzleandro7 Criador De Ids
     "Conta_desconhecid47", -- ༆TheClockworkDev⛤ 22/05/26 15/02/29
     "Joao12ksksk", -- S a m u e l 22/05/26 15/02/29
