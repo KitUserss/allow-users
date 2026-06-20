@@ -8,7 +8,6 @@ return {
     "K1LL_py", -- kill 04/03 04/07
     "cantanguandi2", -- 𝐏𝐇𝐙𝐈𝐍 22/05/26 15/02/29
     "Wzleandro7", -- Wzleandro7 Criador De Ids
-    "Joao12ksksk", -- S a m u e l 22/05/26 15/02/29
     "VITORXD123C", -- rw 23/05/26 01/08/26
     "roubei_brairot23", -- 24/05 27/05
     "p9hasahs", -- VETERANO Palacio ム 26/05/26 12/11/53
