@@ -11,5 +11,6 @@ return {
     "TrollLinux", -- s 05/06/26 01/03/29
     "Strix_Thiago", -- Thiozin 16/06/26 21/06/26
     "alusonve", -- Victor 19/06/26 19/07/26
-    "adminbrookhavenr" -- Victor 20/06/26 20/07/26
+    "adminbrookhavenr", -- Victor 20/06/26 20/07/26
+    "itz_blackzinh01" -- Max 20/06/26 05/11/53
 }
