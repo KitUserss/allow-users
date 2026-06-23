@@ -12,5 +12,6 @@ return {
     "alusonve", -- Victor 19/06/26 19/07/26
     "adminbrookhavenr", -- Victor 20/06/26 20/07/26
     "itz_blackzinh01", -- Max 20/06/26 05/11/53
-    "Milena_Martins77" -- 𝕮𝖗𝖚𝖊𝖑𝖑𝖆 𝕱𝖆𝖗𝖗𝖆𝖕𝖔 21/06/26 06/11/53
+    "Milena_Martins77", -- 𝕮𝖗𝖚𝖊𝖑𝖑𝖆 𝕱𝖆𝖗𝖗𝖆𝖕𝖔 21/06/26 06/11/53
+    "l2_tui" -- 𝖕𝖆𝖗𝖆𝖓𝖔𝖎𝖉 23/06/26 07/04/00
 }
