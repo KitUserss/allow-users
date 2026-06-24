@@ -3,7 +3,6 @@ return {
     "lushmart", -- bazuka
     "StaffordMakayla783", -- bazuka
     "andrielebibi", -- driih 03/03 03/07
-    "Hetien", -- Hetien 26/04/26 22/03/64
     "adm_Zago98", -- diego permanente
     "K1LL_py", -- kill 04/03 04/07
     "Wzleandro7", -- Wzleandro7 Criador De Ids
