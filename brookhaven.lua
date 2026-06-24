@@ -18,5 +18,6 @@ return {
     "gd123gg1", -- ☆Black sem pai★ 24/06/26 29/06/26
     "Luiskkj999", -- ✧༝ 𝓕𝓮𝓶𝓫𝓸𝔂 ༝✧ 24/06/26 24/07/26
     "welix000074", -- Fei 24/06/26 24/07/26
-    "Pretizinzn_8" -- P A H 24/06/26 14/07/26
+    "Pretizinzn_8", -- P A H 24/06/26 14/07/26
+    "gabrielgrande034" -- SANJI 24/06/26 14/07/26
 }
