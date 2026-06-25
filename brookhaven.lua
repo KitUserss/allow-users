@@ -20,5 +20,6 @@ return {
     "welix000074", -- Fei 24/06/26 24/07/26
     "Pretizinzn_8", -- P A H 24/06/26 14/07/26
     "gabrielgrande034", -- SANJI 24/06/26 14/07/26
-    "user_desconh2" -- Aliás 24/06/26 24/07/26
+    "user_desconh2", -- Aliás 24/06/26 24/07/26
+    "kzrrzs4r" -- Beca 24/06/26 09/11/53
 }
