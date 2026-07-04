@@ -9,7 +9,7 @@ return {
     "TrollLinux", -- s 05/06/26 01/03/29
     "alusonve", -- Victor 19/06/26 19/07/26
     "adminbrookhavenr", -- Victor 24/06/26 09/11/53
-    "itz_blackzinh01", -- Max 20/06/26 05/11/53
+    "itz_blackzinh01", -- Max 03/07/26 17/11/53
     "l2_tui", -- 𝖕𝖆𝖗𝖆𝖓𝖔𝖎𝖉 23/06/26 08/11/53
     "Sandy_Frank66", -- Biel 24/06/26 24/07/26
     "Otavio3D10", -- D4RKsboxx 24/06/26 07/07/26
