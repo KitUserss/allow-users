@@ -18,5 +18,6 @@ return {
     "gabrielgrande034", -- SANJI 24/06/26 14/07/26
     "user_desconh2", -- Aliás 24/06/26 24/07/26
     "kzrrzs4r", -- Beca 24/06/26 09/11/53
-    "musclerebirth07" -- Bazuka 02/07/26 05/07/26
+    "musclerebirth07", -- Bazuka 02/07/26 05/07/26
+    "adminbrookhavenr" -- Victor 03/07/26 22/08/08
 }
