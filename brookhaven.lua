@@ -2,7 +2,6 @@ return {
     "Breno010L", -- Bazuka
     "lushmart", -- bazuka
     "StaffordMakayla783", -- bazuka
-    "adm_Zago98", -- diego permanente
     "Wzleandro7", -- Wzleandro7 Criador De Ids
     "p9hasahs", -- VETERANO Palacio ム 26/05/26 12/11/53
     "TrollLinux", -- s 05/06/26 01/03/29
