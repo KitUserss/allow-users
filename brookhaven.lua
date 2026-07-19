@@ -15,5 +15,6 @@ return {
     "adminbrookhavenr", -- Victor 19/07/26 03/12/53
     "INVblack", -- diegoborges0645 07/07/26 01/08/67
     "joaoking667", -- joaoexe66 13/07/26 23/07/26
-    "Sem_chat727" -- jumpscare 19/07/26 19/07/27
+    "Sem_chat727", -- jumpscare 19/07/26 19/07/27
+    "show_dark89" -- Xbacon 19/07/26 23/07/26
 }
