@@ -15,6 +15,5 @@ return {
     "INVblack", -- diegoborges0645 07/07/26 01/08/67
     "joaoking667", -- joaoexe66 13/07/26 23/07/26
     "Sem_chat727", -- jumpscare 19/07/26 19/07/27
-    "show_dark89", -- Xbacon 19/07/26 23/07/26
-    "Luiz5726666" -- GANgtar@ 21/07/26 22/07/26
+    "show_dark89" -- Xbacon 19/07/26 23/07/26
 }
