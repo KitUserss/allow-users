@@ -7,9 +7,6 @@ return {
     "TrollLinux", -- s 05/06/26 01/03/29
     "itz_blackzinh01", -- mael 20/07/26 16/06/64
     "l2_tui", -- 𝖕𝖆𝖗𝖆𝖓𝖔𝖎𝖉 23/06/26 08/11/53
-    "Sandy_Frank66", -- Biel 24/06/26 24/07/26
-    "Luiskkj999", -- ✧༝ 𝓕𝓮𝓶𝓫𝓸𝔂 ༝✧ 24/06/26 24/07/26
-    "user_desconh2", -- Aliás 24/06/26 24/07/26
     "kzrrzs4r", -- Beca 24/06/26 09/11/53
     "Sem_chat727" -- jumpscare 19/07/26 19/07/27
 }
