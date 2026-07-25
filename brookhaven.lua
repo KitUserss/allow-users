@@ -8,5 +8,6 @@ return {
     "itz_blackzinh01", -- mael 20/07/26 16/06/64
     "l2_tui", -- 𝖕𝖆𝖗𝖆𝖓𝖔𝖎𝖉 23/06/26 08/11/53
     "kzrrzs4r", -- Beca 24/06/26 09/11/53
-    "Sem_chat727" -- jumpscare 19/07/26 19/07/27
+    "Sem_chat727", -- jumpscare 19/07/26 19/07/27
+    "PODEROSO_PH082" -- THE EMPEROR GEBEH!. 25/07/26 01/08/26
 }
