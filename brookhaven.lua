@@ -12,5 +12,6 @@ return {
     "PODEROSO_PH082", -- THE EMPEROR GEBEH!. 25/07/26 14/08/26
     "silvaa_lenda", -- silvaxz 26/07/26 02/08/26
     "Toddex019", -- Toddy 26/07/26 02/08/26
-    "Otavio3D10" -- D4RKsboxx 26/07/26 02/08/26
+    "Otavio3D10", -- D4RKsboxx 26/07/26 02/08/26
+    "dustsudr" -- icaro 26/07/26 22/06/64
 }
