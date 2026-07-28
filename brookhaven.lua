@@ -14,5 +14,6 @@ return {
     "Toddex019", -- Toddy 26/07/26 02/08/26
     "Otavio3D10", -- D4RKsboxx 26/07/26 02/08/26
     "dustsudr", -- icaro 26/07/26 22/06/64
-    "ax7_LZINN6" -- yKing 🌠 27/07/26 08/08/26
+    "ax7_LZINN6", -- yKing 🌠 27/07/26 08/08/26
+    "Welix0166" -- ㄥモᜱƗ Տ２ 28/07/26 12/12/53
 }
