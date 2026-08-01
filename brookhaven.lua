@@ -19,6 +19,6 @@ return {
     "BrunoYT1353", -- KN 29/07/26 01/08/66
     "INVblack", -- diegoborges0645 31/07/26 16/12/53
     "getestetyy", -- xxsombraxx0306 31/07/26 10/12/53 
-    "rafaelprogamerkwai_7" -- rafael028100 31/07/26 10/12/66
+    "japa001903" -- rafael028100 31/07/26 10/12/66
 }
     
