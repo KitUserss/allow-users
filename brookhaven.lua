@@ -16,7 +16,7 @@ return {
     "dustsudr", -- icaro 26/07/26 22/06/64
     "ax7_LZINN6", -- yKing 🌠 27/07/26 08/08/26
     "Welix0166", -- ㄥモᜱƗ Տ２ 28/07/26 12/12/53
-    "BrunoYT1353", -- KN 29/07/26 01/08/26
+    "BrunoYT1353", -- KN 29/07/26 01/08/66
     "INVblack", -- diegoborges0645 31/07/26 16/12/53
     "getestetyy" -- xxsombraxx0306 31/07/26 10/12/53 
 }
