@@ -18,6 +18,7 @@ return {
     "Welix0166", -- ㄥモᜱƗ Տ２ 28/07/26 12/12/53
     "BrunoYT1353", -- KN 29/07/26 01/08/66
     "INVblack", -- diegoborges0645 31/07/26 16/12/53
-    "getestetyy" -- xxsombraxx0306 31/07/26 10/12/53 
+    "getestetyy", -- xxsombraxx0306 31/07/26 10/12/53 
+    "rafaelprogamerkwai_7" -- rafael028100 31/07/26 10/12/66
 }
     
