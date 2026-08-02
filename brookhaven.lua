@@ -20,6 +20,7 @@ return {
     "INVblack", -- diegoborges0645 31/07/26 16/12/53
     "getestetyy", -- xxsombraxx0306 Staff
     "XxmikaelXx91", -- Style Perm
-    "japa001903" -- rafael028100 31/07/26 10/12/66
+    "japa001903", -- rafael028100 31/07/26 10/12/66
+    "VIKTORYUUGOYUUKI" -- y5fxbw_21368 02/08/26 05/08/26
 }
     
