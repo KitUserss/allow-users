@@ -22,6 +22,7 @@ return {
     "Hdjdhdhurhrjtl", -- mmbielzinn_57275 02/08/26 09/08/26
     "its_foguinho", -- ピンクン 02/08/26 06/08/26
     "vitinndelasx3", -- Sixxx 03/08/26 06/08/26
-    "PEEBLE_PRO" -- Isaca 03/08/26 06/08/26
+    "PEEBLE_PRO", -- Isaca 03/08/26 06/08/26
+    "Pedriinn_gamerr" -- lancaster 03/08/26 06/08/26
 }
     
