@@ -21,6 +21,7 @@ return {
     "roblox_user_393809617", -- y5fxbw_21368 02/08/26 05/08/26
     "Hdjdhdhurhrjtl", -- mmbielzinn_57275 02/08/26 09/08/26
     "its_foguinho", -- ピンクン 02/08/26 06/08/26
-    "vitinndelasx3" -- Sixxx 03/08/26 06/08/26
+    "vitinndelasx3", -- Sixxx 03/08/26 06/08/26
+    "PEEBLE_PRO" -- Isaca 03/08/26 06/08/26
 }
     
