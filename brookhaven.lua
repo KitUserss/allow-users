@@ -26,6 +26,7 @@ return {
     "Pedriinn_gamerr", -- lancaster 03/08/26 06/08/26
     "eusoubot24", -- SNKKJ 03/08/26 18/12/53
     "Blaz37IPix3lS151267", -- Itachi 03/08/26 06/08/26
-    "otaviom087" -- Otavio 03/08/26 06/08/26
+    "otaviom087", -- Otavio 03/08/26 06/08/26
+    "fnaf1650" -- rvvzxz 04/08/26 07/08/26
 }
     
