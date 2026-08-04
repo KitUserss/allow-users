@@ -20,7 +20,7 @@ return {
     "japa001903", -- rafael028100 31/07/26 10/12/66
     "roblox_user_393809617", -- y5fxbw_21368 02/08/26 05/08/26
     "Hdjdhdhurhrjtl", -- mmbielzinn_57275 02/08/26 09/08/26
-    "its_foguinho", -- ピンクン 03/08/26 18/05/00
+    "its_foguinho", -- ピンクン 03/08/26 18/12/53
     "vitinndelasx3", -- Sixxx 03/08/26 06/08/26
     "PEEBLE_PRO", -- Isaca 03/08/26 06/08/26
     "Pedriinn_gamerr", -- lancaster 03/08/26 06/08/26
