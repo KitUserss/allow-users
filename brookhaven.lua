@@ -1,6 +1,5 @@
 return {
     "adminbrookhavenr", -- victor
-    "lushmart", -- bazuka
     "StaffordMakayla783", -- bazuka
     "Wzleandro7", -- Wzleandro7 Criador De Ids
     "p9hasahs", -- VETERANO Palacio ム 26/05/26 12/11/53
