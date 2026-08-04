@@ -2,7 +2,6 @@ return {
     "adminbrookhavenr", -- victor
     "StaffordMakayla783", -- bazuka
     "Wzleandro7", -- Wzleandro7 Criador De Ids
-    "p9hasahs", -- VETERANO Palacio ム 26/05/26 12/11/53
     "TrollLinux", -- s 05/06/26 01/03/29
     "itz_blackzinh01", -- mael 20/07/26 16/06/64
     "l2_tui", -- 𝖕𝖆𝖗𝖆𝖓𝖔𝖎𝖉 23/06/26 08/11/53
