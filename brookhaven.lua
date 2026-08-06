@@ -18,12 +18,7 @@ return {
     "japa001903", -- rafael028100 31/07/26 10/12/66
     "Hdjdhdhurhrjtl", -- mmbielzinn_57275 02/08/26 09/08/26
     "its_foguinho", -- ピンクン 03/08/26 18/12/53
-    "vitinndelasx3", -- Sixxx 03/08/26 06/08/26
-    "PEEBLE_PRO", -- Isaca 03/08/26 06/08/26
-    "Pedriinn_gamerr", -- lancaster 03/08/26 06/08/26
     "eusoubot24", -- SNKKJ 03/08/26 18/12/53
-    "Blaz37IPix3lS151267", -- Itachi 03/08/26 06/08/26
-    "otaviom087", -- Otavio 03/08/26 06/08/26
     "fnaf1650", -- rvvzxz 04/08/26 07/08/26
     "DOUGUI00", -- zen_lynx_93071 04/08/26 07/08/26
     "Guedes123216", -- 🇵🇹🐦‍⬛🇿🇦🤓 04/08/26 19/12/53
