@@ -22,6 +22,7 @@ return {
     "fnaf1650", -- rvvzxz 04/08/26 07/08/26
     "DOUGUI00", -- zen_lynx_93071 04/08/26 07/08/26
     "Guedes123216", -- 🇵🇹🐦‍⬛🇿🇦🤓 04/08/26 19/12/53
-    "twarsxo" -- Kz.twar 05/08/26 20/12/53
+    "twarsxo", -- Kz.twar 05/08/26 20/12/53
+    "gabrielchiarelli_5" -- Gabriel 06/08/26 06/09/26
 }
     
