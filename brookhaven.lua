@@ -19,8 +19,6 @@ return {
     "Hdjdhdhurhrjtl", -- mmbielzinn_57275 02/08/26 09/08/26
     "its_foguinho", -- ピンクン 03/08/26 18/12/53
     "eusoubot24", -- SNKKJ 03/08/26 18/12/53
-    "fnaf1650", -- rvvzxz 04/08/26 07/08/26
-    "DOUGUI00", -- zen_lynx_93071 04/08/26 07/08/26
     "Guedes123216", -- 🇵🇹🐦‍⬛🇿🇦🤓 04/08/26 19/12/53
     "twarsxo", -- Kz.twar 05/08/26 20/12/53
     "gabrielchiarelli_5" -- Gabriel 06/08/26 06/09/26
