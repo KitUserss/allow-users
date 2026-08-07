@@ -21,7 +21,6 @@ return {
     "eusoubot24", -- SNKKJ 03/08/26 18/12/53
     "Guedes123216", -- 🇵🇹🐦‍⬛🇿🇦🤓 04/08/26 19/12/53
     "twarsxo", -- Kz.twar 05/08/26 20/12/53
-    "gabrielchiarelli_5", -- Gabriel 06/08/26 06/09/26
-    "ISAQUEJSB1" -- RIQUINHO 🤑 07/08/26 27/08/26
+    "gabrielchiarelli_5" -- Gabriel 06/08/26 06/09/26
 }
     
