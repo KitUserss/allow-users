@@ -23,6 +23,7 @@ return {
     "6rxt7xn", -- yKing 🌠 07/08/26 22/12/53
     "Blaz37IPix3lS151267", -- Itachi 07/08/26 22/12/53
     "Itachiizx7", -- 💭 07/08/26 15/08/26
-    "ax7_LZINN6" -- yKing 🌠 08/08/26 15/08/26
+    "ax7_LZINN6", -- yKing 🌠 08/08/26 15/08/26
+    "icnauafahf" -- DavizinFF 09/08/26 24/12/53
 }
     
