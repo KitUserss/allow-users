@@ -26,6 +26,7 @@ return {
     "ax7_LZINN6", -- yKing 🌠 08/08/26 15/08/26
     "icnauafahf", -- DavizinFF 09/08/26 24/12/53
     "xXjames_hosXx", -- defeatyou. staff
-    "enaldinho01132" -- mandela7_. 17/08/26 01/09/26
+    "enaldinho01132", -- mandela7_. 17/08/26 01/09/26
+    "XmoroAx" -- idkwhat_putinmyname_pop 28/08/26 29/08/26
 }
     
